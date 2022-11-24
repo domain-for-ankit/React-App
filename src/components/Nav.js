@@ -16,24 +16,23 @@ return(
         </li>
         <li className="nav-item">
           {/* <a className="nav-link" href="/about">About</a> */}
-          <Link className="nav-link" to="/Home">Home</Link>
+          <a className="nav-link" href="/Home">Home</a>
         </li>
         <li className="nav-item">
           {/* <a className="nav-link" href="/about">About</a> */}
-          <Link className="nav-link" to="/about">About</Link>
+          <a className="nav-link" href="/about">About</a>
         </li>
               
         <li className="nav-item">
           {/* <a className="nav-link" href="/about">About</a> */}
-          <Link className="nav-link" to="/contact">Contact</Link>
+          <a className="nav-link" href="/contact">Contact</a>
         </li>
 
         <li className="nav-item">
           {/* <a className="nav-link" href="/about">About</a> */}
-          <Link className="nav-link" to="/textform">textform</Link>
+          <a className="nav-link" href="/textform">textform</a>
         </li>
-         
-        
+                 
       </ul>
     
       <div className={`form-check form-switch text-${myProps.switchMode}`}>

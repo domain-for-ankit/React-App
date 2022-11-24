@@ -1,9 +1,8 @@
 {
+  "homepage": "https://domain-for-ankit.github.io/app1",
   "name": "app1",
   "version": "0.1.0",
   "private": true,
-
-  "homepage": "https://domain-for-ankit.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
